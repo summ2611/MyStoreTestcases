@@ -1,0 +1,4 @@
+com/restassured/MathjsGetAPITest.java
+ com.restassured.MathjsGetAPITest
+com/restassured/MathjsPOSTAPITest.java
+ com.restassured.MathjsPOSTAPITest
